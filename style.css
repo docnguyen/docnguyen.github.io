@@ -53,6 +53,13 @@
     font-size: 16px;
     padding: 5px;
   }
+  .img-center {
+      float:right;
+      margin: 0 0 1em 1em;
+      width:300em;
+      height:300em;
+      
+    }
 }
 
 body {
