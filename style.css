@@ -55,7 +55,7 @@
   }
   .img-center {
       float:right;
-      margin: 0 0 1em 1em;
+      margin: 0 0 1em -20em;
       width:300em;
       height:300em;
       
